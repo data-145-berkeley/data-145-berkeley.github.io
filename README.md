@@ -1,6 +1,6 @@
 # UC Berkeley Data 145 Spring 2026 Website
 
-[![Deploy Jekyll site to Pages](https://github.com/data-145-berkeley/sp26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-145-berkeley/sp26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-145-berkeley/sp26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-145-berkeley/sp26/actions/workflows/rspec.yml)
+[![Deploy Jekyll site to Pages](https://github.com/data-145-berkeley/data-145-berkeley.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-145-berkeley/data-145-berkeley.github.io/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-145-berkeley/data-145-berkeley.github.io/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-145-berkeley/data-145-berkeley.github.io/actions/workflows/rspec.yml)
 
 ## Notes
 1. Some information that was on Will's original draft website has been commented out on `home.md` to keep the look of the site similar to other DATA sites. Feel free to modify as needed. 
