@@ -6,9 +6,6 @@ nav_order: 4
 ---
 
 # Staff
-
-To learn how this page works, see the [documentation]({% link docs/collections/staff.md %}).
-
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -29,7 +26,7 @@ To learn how this page works, see the [documentation]({% link docs/collections/s
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## Teaching Assistant
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
@@ -39,7 +36,7 @@ To learn how this page works, see the [documentation]({% link docs/collections/s
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
-## Tutors
+## Tutor
 
 {% for staffer in tutors %}
 {{ staffer }}

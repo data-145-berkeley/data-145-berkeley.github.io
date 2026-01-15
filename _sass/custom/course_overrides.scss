@@ -4,3 +4,14 @@
   background-color: #9C3848 !important;
   color: white !important;
 }
+
+.table-wrapper:has(.tight-table) {
+    display: inline-block;
+    width: auto;
+}
+
+/* This ensures the table itself doesn't stretch */
+.tight-table {
+    width: auto !important;
+    min-width: 200px; /* Optional: keeps it from being TOO skinny */
+}

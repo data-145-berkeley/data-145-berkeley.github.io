@@ -19,31 +19,44 @@
 # providing the readings field.
 
 lectures:
-  - slug: intro
-    readings:
-      - title: Introduction
-        link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
-  - slug: 2
-    readings: 
-      - title: Causality and Experiments
-        link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
-  - slug: "03"
-    readings:
-      - links: 
-          - text: "Programming in Python"
-            url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
-          - text: "Data Types"
-            url: "https://inferentialthinking.com/chapters/04/data-types/"
-  - slug: "04"
-  - slug: "05"
-  - slug: "06"
-  - slug: "07"
-  # - skip: true
-  - slug: "08"
-  - title: "No Lecture"
+  - title: Course intro; convergence and delta method via MLE
+    # link: https://example.com/
+    # readings:
+    #   - title: Introduction
+    #     link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
+  - title: Modes of convergence, continuous mapping, Slutsky
+  # quotes are necessary if you want to use a colon
+  - title: "MLE 1: Score, Fisher information, consistency"
+  - title: "MLE 2: Asymptotic normality, confidence intervals"
+  - title: "MLE 3: Efficiency, Cramér-Rao"
+  - title: "Bayes 1: Loss, risk, MSE, bias-variance decomposition"
+  - title: "Bayes 2: Prior and posterior, exponential families"
+  - title: "Bayes 3: Epistemic uncertainty, Jeffreys priors"
+  - title: Model misspecification, K-L divergence
+  - title: Empirical distribution, bootstrap confidence intervals
+  - title: Empirical CDF, KS statistic, hypothesis testing intro
+  - title: "Hypothesis testing 1: Likelihood ratios, Neyman-Pearson"
+  - title: "Hypothesis testing 2: LRT examples, UMP tests"
+  - title: "Hypothesis testing 3: p-values, test-CI duality"
+  - title: "Asymptotics: Score, Wald, generalized LRT"
+  - title: "Generalized LRT, chi-squared test for goodness of fit"
+  - title: "Total variation distance, small-sample alternatives"
+  - title: "A/B testing: Comparing samples, permutations"
+  - title: Spring Break
     nonumber: true
-    # link: "https://registrar.berkeley.edu/wp-content/uploads/UCB_AcademicCalendar_2025-26.pdf"
-  - slug: "09"
-  - slug: "10"
-  - slug: "11"
-
+  - title: Spring Break
+    nonumber: true
+  - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
+  - title: "Multivariate Gaussian 2: Multiple regression inference" 
+  - title: "Finite sample concentration, sub-Gaussian variables" 
+  - title: "Applications" 
+  - title: "Multiple testing 1: FWER, Bonferroni" 
+  - title: "Multiple testing 2: FDR, Benjamini-Hochberg" 
+  - title: "Empirical Bayes, local FDR, Gibbs sampler" 
+  - title: "Causal inference 1" 
+  - title: "Causal inference 2" 
+  - title: "Course summary" 
+  - title: "RRR Week"
+    nonumber: true 
+  - title: "RRR Week"
+    nonumber: true 

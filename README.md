@@ -1,9 +1,12 @@
-# Berkeley Class Site
+# UC Berkeley Data 145 Spring 2026 Website
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml)
+BADGES
 
-A template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
+## Notes
+1. Some information that was on Will's original draft website has been commented out on `home.md` to keep the look of the site similar to other DATA sites. Feel free to modify as needed. 
+1. If you want to modify the schedule, check out the `_data/` folder. `_data/syllabus.yml` constructs the calendar and has exams. `_data/lectures.yml` has the lecture ordering. If you want to include more than a single link for a lecture, I suggest you use the `_lectures/` collection. If you need additional guidance on using collections, please reach out Silas. The template does not have anything specifically called worksheets, I have used all the functionality built for homeworks instead. To modify anything about worksheets, look for homeworks instead. The only actual modification of the template code was changing the label to read "Worksheet" instead of "Homework".
+1. Fun things: if you get a course logo, you can add it to this repo and adjust `_config.yml`
+1. Fun things again: Add course staff headshots to `assets/images/`. You can adjust any files in `_staffers/` as desired. Add text outside the front matter for bios.
 
 ## Installation
 
@@ -112,10 +115,6 @@ Search throughout the repository for TODO items called `TODO(setup)` and complet
 ## Deployment
 
 The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
-
-## Contributing
-
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for instructions on how to develop this site as part of course staff or if you're interested in contributing to this template repository.
 
 ## License
 
