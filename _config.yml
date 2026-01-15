@@ -26,6 +26,7 @@ author: Data 145 Staff
 baseurl: '/sp26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
 url: 'https://http://data145.org' # the hostname & protocol for your site, e.g. http://example.com
+repository: data-145-berkeley/sp26
 
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
