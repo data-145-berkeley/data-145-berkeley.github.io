@@ -1,6 +1,6 @@
 ---
 name: Ben Rabin
 role: Teaching Assistant
-# photo: ben.jpg
+photo: ben.png
 email: ben.rabin@berkeley.edu
 ---

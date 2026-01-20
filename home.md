@@ -10,7 +10,7 @@ seo:
 
 # Data 145: Evidence and Uncertainty
 {: .mb-2 }
-UC Berkeley, Fall 2025
+UC Berkeley, Spring 2026
 {: .mb-2 .fs-6}
 
 Welcome to Data 145! When we learn about the world from data, how much can we rely on the conclusions we draw? How do we know if we could do better?
