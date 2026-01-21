@@ -43,7 +43,4 @@ schedule:
         start: 12:00 PM
         end: 12:59 PM
         location: Evans 340
-      - name: Discussion (103)
-        start: 1:00 PM
-        end: 1:59 PM
 ---
