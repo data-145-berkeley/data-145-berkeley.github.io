@@ -20,7 +20,7 @@
 
 lectures:
   - title: Course intro; convergence and delta method via MLE
-    # link: https://example.com/
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec01%2Flec01.ipynb&branch=main
     # readings:
     #   - title: Introduction
     #     link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
