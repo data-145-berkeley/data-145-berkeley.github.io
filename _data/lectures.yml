@@ -25,6 +25,7 @@ lectures:
     #   - title: Introduction
     #     link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
   - title: Modes of convergence, continuous mapping, Slutsky
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec02%2Flec02.ipynb&branch=main
   # quotes are necessary if you want to use a colon
   - title: "MLE 1: Score, Fisher information, consistency"
   - title: "MLE 2: Asymptotic normality, confidence intervals"
