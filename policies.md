@@ -139,7 +139,7 @@ information with us as soon as possible.
 
 - **[Ed Discussion](https://edstem.org/us/courses/90354/discussion/)**: Use for all course-related questions. We aim to respond
   within 24 hours
-- **Email course staff at [data145@lists.berkeley.edu](mailto:data145@lists.berkeley.edu)**: Use only for private matters (grades, personal circumstances)
+- **Email course staff at [data145@berkeley.edu](mailto:data145@berkeley.edu)**: Use only for private matters (grades, personal circumstances)
 - **Office hours**: The best place to get help with assignments and concepts
 
 ---
