@@ -45,11 +45,10 @@ guarantees such as, "An overall score of at least x% will earn at least an A-."
 
 - **Attendance**: Lecture and discussion attendance is strongly recommended but
   not required. Attendance will not be recorded.
-gradescope_course_id: 1206670
-- **Submission**: Weekly assignments will be submitted on [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}) every Monday at 5pm.
+- **Submission**: Weekly assignments will be submitted on [Gradescope](https://www.gradescope.com/courses/1206670) every Monday at 5pm.
 - **Late work**: No late submissions will be accepted except for students who
   have DSP extended time accommodations or other justifications mandated as
-  acceptable by the campus. Solutions will be released 24 hours after assignments are due.
+  acceptable by the campus. Solutions will be released 48 hours after assignments are due.
 - **Dropped scores**: The two lowest assignment scores will be dropped in the
   calculation of the overall assignment grade.
 
