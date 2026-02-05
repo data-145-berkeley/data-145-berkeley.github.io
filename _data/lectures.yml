@@ -34,6 +34,7 @@ lectures:
   - title: "MLE 3: Efficiency, Cramér-Rao"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec05%2Flec05.ipynb&branch=main
   - title: "Bayes 1: Loss, risk, MSE, bias-variance decomposition"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec06%2Flec06.ipynb&branch=main
   - title: "Bayes 2: Prior and posterior, exponential families"
   - title: "Bayes 3: Epistemic uncertainty, Jeffreys priors"
   - title: Model misspecification, K-L divergence
