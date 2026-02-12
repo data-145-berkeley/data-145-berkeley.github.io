@@ -20,6 +20,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 1:59 PM
+        location: Evans 426
   - name: Tuesday
     events:
       - name: Lecture

@@ -75,9 +75,9 @@ No appointment needed!
 | Who | When | Where |
 |:----|:-----|:------|
 | Ani Adhikari | TBD | TBD |
-| William Fithian | TBD | TBD |
-| Ben Rabin (GSI) | TBD | TBD |
-| Dhruv Pendharkar (Tutor) | TBD | TBD |
+| William Fithian | Monday 10am–11am | Evans 301 |
+| Ben Rabin (GSI) | Monday 10am–12pm | Evans 426 |
+| Dhruv Pendharkar (Tutor) | Monday 12pm–2pm | Evans 426 |
 
 *Office hours schedule will be updated after the first week of class.*
 
