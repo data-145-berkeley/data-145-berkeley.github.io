@@ -38,6 +38,7 @@ lectures:
   - title: "Bayes 2: Prior and posterior, exponential families"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec07%2Flec07.ipynb&branch=main
   - title: "Bayes 3: Epistemic uncertainty, Jeffreys priors"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec08%2Flec08.ipynb&branch=main
   - title: Model misspecification, K-L divergence
   - title: Empirical distribution, bootstrap confidence intervals
   - title: Empirical CDF, KS statistic, hypothesis testing intro
