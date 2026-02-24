@@ -76,7 +76,7 @@ No appointment needed!
 |:----|:-----|:------|
 | Ani Adhikari | Thursday 3:30–4:30 | Evans 413 |
 | William Fithian | Monday 10am–11am | Evans 301 |
-| Ben Rabin (GSI) | Monday 10am–12pm | Evans 426 |
+| Ben Rabin (TA) | Monday 10am–12pm | Evans 426 |
 | Dhruv Pendharkar (Tutor) | Monday 12pm–2pm | Evans 426 |
 
 ### Ed Discussion

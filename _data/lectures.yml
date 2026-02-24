@@ -44,6 +44,7 @@ lectures:
   - title: Empirical distribution, bootstrap confidence intervals
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec10%2Flec10.ipynb&branch=main
   - title: Empirical CDF, KS statistic, hypothesis testing intro
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec11%2Flec11.ipynb&branch=main
   - title: "Hypothesis testing 1: Likelihood ratios, Neyman-Pearson"
   - title: "Hypothesis testing 2: LRT examples, UMP tests"
   - title: "Hypothesis testing 3: p-values, test-CI duality"
