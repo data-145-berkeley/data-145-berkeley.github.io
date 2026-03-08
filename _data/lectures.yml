@@ -50,6 +50,7 @@ lectures:
   - title: "Hypothesis testing 2: LRT examples, UMP tests"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec13%2Flec13.ipynb&branch=main
   - title: "Hypothesis testing 3: p-values, test-CI duality"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec14%2Flec14.ipynb&branch=main
   - title: "Asymptotics: Score, Wald, generalized LRT"
   - title: "Generalized LRT, chi-squared test for goodness of fit"
   - title: "Total variation distance, small-sample alternatives"
