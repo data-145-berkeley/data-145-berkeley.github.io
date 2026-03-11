@@ -14,7 +14,7 @@ extra_days_col2:
     title: Final Exam, 11:30 am - 2:30 pm
     label: exam
   - date: 2026-03-13
-    title: Midterm Exam (evening)
+    title: Midterm Exam (7–9 PM, Latimer 120)
     label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
