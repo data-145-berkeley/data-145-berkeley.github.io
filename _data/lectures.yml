@@ -53,20 +53,21 @@ lectures:
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec14%2Flec14.ipynb&branch=main
   - title: "Asymptotics: Score, Wald, generalized LRT"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec15%2Flec15.ipynb&branch=main
+  - title: "Midterm review"
   - title: "Generalized LRT, chi-squared test for goodness of fit"
   - title: "Total variation distance, small-sample alternatives"
+  - title: Spring Break
+    nonumber: true
+  - title: Spring Break
+    nonumber: true
   - title: "A/B testing: Comparing samples, permutations"
-  - title: Spring Break
-    nonumber: true
-  - title: Spring Break
-    nonumber: true
   - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
   - title: "Multivariate Gaussian 2: Multiple regression inference" 
   - title: "Finite sample concentration, sub-Gaussian variables" 
   - title: "Applications" 
   - title: "Multiple testing 1: FWER, Bonferroni" 
   - title: "Multiple testing 2: FDR, Benjamini-Hochberg" 
-  - title: "Empirical Bayes, local FDR, Gibbs sampler" 
+  # - title: "Empirical Bayes, local FDR, Gibbs sampler" 
   - title: "Causal inference 1" 
   - title: "Causal inference 2" 
   - title: "Course summary" 
