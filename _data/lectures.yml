@@ -58,6 +58,7 @@ lectures:
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&urlpath=tree%2Fsp26-public%2Flectures%2Flec17%2Flec17.ipynb&branch=main
   # - title: "Total variation distance, small-sample alternatives"
   - title: "A/B testing: Comparing samples, permutations"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec18%2Flec18.ipynb
   - title: Spring Break
     nonumber: true
   - title: Spring Break
