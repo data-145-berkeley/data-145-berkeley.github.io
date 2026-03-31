@@ -63,12 +63,12 @@ lectures:
     nonumber: true
   - title: Spring Break
     nonumber: true
+  - title: "Multiple testing 1: FWER, Bonferroni" 
+  - title: "Multiple testing 2: FDR, Benjamini-Hochberg" 
   - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
   - title: "Multivariate Gaussian 2: Multiple regression inference" 
   - title: "Finite sample concentration, sub-Gaussian variables" 
   - title: "Applications" 
-  - title: "Multiple testing 1: FWER, Bonferroni" 
-  - title: "Multiple testing 2: FDR, Benjamini-Hochberg" 
   - title: "Empirical Bayes, local FDR, Gibbs sampler" 
   - title: "Causal inference 1" 
   - title: "Causal inference 2" 
