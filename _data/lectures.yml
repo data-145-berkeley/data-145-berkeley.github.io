@@ -64,11 +64,13 @@ lectures:
   - title: Spring Break
     nonumber: true
   - title: "Multiple testing 1: FWER, Bonferroni" 
-  - title: "Multiple testing 2: FDR, Benjamini-Hochberg" 
-  - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
-  - title: "Multivariate Gaussian 2: Multiple regression inference" 
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec19%2Flec19.ipynb
+  - title: "Multiple testing 2: FDR, Benjamini-Hochberg"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec20%2Flec20.ipynb
   - title: "Finite sample concentration, sub-Gaussian variables" 
   - title: "Applications" 
+  - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
+  - title: "Multivariate Gaussian 2: Multiple regression inference" 
   - title: "Empirical Bayes, local FDR, Gibbs sampler" 
   - title: "Causal inference 1" 
   - title: "Causal inference 2" 

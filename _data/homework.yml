@@ -31,7 +31,8 @@ homework:
   - title: due 3/30
     link: https://edstem.org/us/courses/90354/discussion/7825255
   - skip: true
-  - title: due 4/6
+  # - title: due 4/6
+  - skip: true
   - title: due 4/13
   - title: due 4/20
   - title: due 4/27
