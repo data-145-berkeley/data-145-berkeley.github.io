@@ -67,7 +67,8 @@ lectures:
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec19%2Flec19.ipynb
   - title: "Multiple testing 2: FDR, Benjamini-Hochberg"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec20%2Flec20.ipynb
-  - title: "Finite sample concentration, sub-Gaussian variables" 
+  - title: "Finite sample concentration, sub-Gaussian variables"
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec21%2Flec21.ipynb 
   - title: "Applications" 
   - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
   - title: "Multivariate Gaussian 2: Multiple regression inference" 
