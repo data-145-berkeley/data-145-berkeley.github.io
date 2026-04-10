@@ -70,6 +70,7 @@ lectures:
   - title: "Finite sample concentration, sub-Gaussian variables"
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec21%2Flec21.ipynb 
   - title: "Applications" 
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec22%2Flec22.ipynb
   - title: "Multivariate Gaussian 1: Z, chi-squared, t, F distributions"
   - title: "Multivariate Gaussian 2: Multiple regression inference" 
   - title: "Empirical Bayes, local FDR, Gibbs sampler" 
