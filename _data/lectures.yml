@@ -75,10 +75,12 @@ lectures:
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec23%2Flec23.ipynb
   - title: "Multivariate Gaussian 2: Multiple regression inference" 
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec24%2Flec24.ipynb
-  - title: "Empirical Bayes, local FDR, Gibbs sampler" 
-  - title: "Causal inference 1" 
-  - title: "Causal inference 2" 
-  - title: "Course summary" 
+  - title: "Gibbs sampling" 
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec25%2Flec25.ipynb
+  - title: "Hierarchical and empirical Bayes" 
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec26%2Flec26.ipynb
+  - title: "TBA" 
+  - title: "TBA" 
   - title: "RRR Week"
     nonumber: true 
   - title: "RRR Week"
