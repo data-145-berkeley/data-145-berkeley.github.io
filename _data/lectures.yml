@@ -80,6 +80,7 @@ lectures:
   - title: "Hierarchical and empirical Bayes" 
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec26%2Flec26.ipynb
   - title: "Causal inference" 
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Flectures%2Flec27%2Flec27.ipynb
   - title: "Special class in Evans 1011" 
   - title: "RRR Week"
     nonumber: true 

@@ -39,4 +39,5 @@ homework:
   - skip: true
   - title: due 4/27
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Fworksheets%2Fws10%2Fws10.ipynb
-  - title: due 5/4
+  - title: due 5/5
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-145-berkeley%2Fsp26-public&branch=main&urlpath=tree%2Fsp26-public%2Fworksheets%2Fws11%2Fws11.ipynb
