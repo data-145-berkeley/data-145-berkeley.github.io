@@ -8,6 +8,9 @@ seo:
   name: Berkeley Class Site
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Data 145: Evidence and Uncertainty
 {: .mb-2 }
 UC Berkeley, Spring 2026

@@ -5,6 +5,9 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Staff
 ## Instructors
 
