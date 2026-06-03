@@ -6,6 +6,9 @@ description: >-
 nav_order: 5
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Resources
 
 This page contains helpful resources for the course, including textbooks,
