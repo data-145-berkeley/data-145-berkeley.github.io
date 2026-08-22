@@ -36,7 +36,7 @@ gradescope_course_id: 1206670
 bcourses_course_id: 1551142 
 ed_course_id: 90354 
 sememster: sp26 
-course_logo_path:
+course_logo_path: data145logo.png
 # This should be one of eecs, dsus, stat
 course_department: dsus
 
@@ -55,7 +55,7 @@ aux_links:
     - 'https://bcourses.berkeley.edu/courses/1551142'
 
 berkeley_theme_options:
-  show_logo_in_sidebar: false
+  show_logo_in_sidebar: true
 
 # - Use this to show/hide the "announcements" feature on the homepage.
 # - Add your weekly announcements in the _announcements folder.
